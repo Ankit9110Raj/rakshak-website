@@ -1,0 +1,33 @@
+/*.header{z-index:1;}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;    
+}
+.menu{
+    display: flex;
+    list-style: none;   
+}
+.menu a{
+    text-decoration: none;
+    color: blue;
+    font-size:1.5 rem;
+    font-weight: bolder;
+    padding: 0 20px 0 20px;
+    text-align: center;    
+}
+
+.menu a:hover{
+    background-color: chartreuse;
+}
+
+#logo{
+    width: 200px;
+    height:100px;
+}
+
+@media screen and (max-width:769px){
+    
+}*/
+

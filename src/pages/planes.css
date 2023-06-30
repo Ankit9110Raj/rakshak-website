@@ -1,0 +1,47 @@
+.container{
+    background-color: aqua;
+    width:100%;
+}
+.planes{
+    display: flex;
+    align-items: center;
+    font-weight:400;
+    font-size:x-large;
+    margin: 50px 200px;
+    
+    
+}
+.planes img{
+    border: 2px solid red;
+    border-radius: 4px;
+    padding: 5px;
+    max-width:15cm;  
+    
+    
+}
+.planes img:hover {
+    transform: scaleX(-1);
+  }
+  .planename{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1cm;
+    margin-bottom:-50px; 
+    font-weight: 700; 
+  }
+
+  #sandy{
+    margin-right: 130px;
+  }
+  #skywalker{
+    margin-right: 130px;
+  }
+  #saeplane{
+    margin-right: 130px;
+  }
+  #sandy2{
+    margin-left: 130px;
+  }
+  #smokey{
+    margin-left: 130px;
+  }
